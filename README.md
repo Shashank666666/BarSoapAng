@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shashank-portfolio.tiiny.site/](https://shashank-portfolio.tiiny.site/)
 
-- 💬 Ask me about **HTML,CSS,JS,Py**
+- 💬 Ask me about **HTML,CSS,JS,Py,React**
 
 - 📫 How to reach me **shashank06062006@gmail.com**
 
